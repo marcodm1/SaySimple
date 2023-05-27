@@ -1,0 +1,30 @@
+Todos los posibles chats:           https://api.saysimple.io/messaging/v2/messaging-chats
+Todos los mensajes de un solo chat: https://api.saysimple.io/messaging/v2/messaging-chats/${chatID}?fields=id,channelId,identityId,end,status,assignedUser,assignedTeam&page=1&limit=1
+
+
+
+
+assignedTeamId: null
+assignedUserId: null
+channelId: 1127
+contactId: 590193
+id: 1639658
+identity: 
+  id: 454322
+  identity: "+34 617 11 70 62"
+lastConversation: 
+  id: 1639658
+  lastEntry: 
+    direction: "out"
+    id: 7939753
+    isAsset: 0
+    locationId: null
+    message: "Gracias por ponerte en contacto con nosotros. Nuestro horario de atención es de lunes a jueves de 8:00 a 19:00 y viernes de 8:00 a 18:00. Nos pondremos en contacto lo antes posible. Un cordial saludo."
+    time: "2023-05-20T22:58:54.087Z"
+    type: "text"
+    status: "open"
+lastInboundMessageTime: "2023-05-20T22:58:51.000Z"
+platform: "WHATSAPP"
+read: false
+tagIds: []
+unreadMessages: 4
